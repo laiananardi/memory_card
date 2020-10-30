@@ -22,7 +22,7 @@ var stopwatch;
 let hasFlippedCard = false;
 let lockBoard = false;
 let firstCard, secondCard;
-let i = 50
+let i = 0;
 
 function startGame() {
   initial.style.display = 'none';
